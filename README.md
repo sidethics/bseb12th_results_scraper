@@ -2,6 +2,17 @@
 
 This Python script allows you to scrape student details and subject-wise marks from the Bihar School Examination Board (BSEB) website for 12th-grade results.
 
+## Purpose
+
+The purpose of this project is to provide a transparent and open-source tool for retrieving and analyzing student data from the BSEB website. With the BSEB 12th Results Scraper, users can easily fetch student details and subject-wise marks for analysis and further processing. This can be useful for educational institutions, researchers, or anyone interested in analyzing academic performance trends.
+
+
+## Warnings
+
+- **Use Responsibly**: While this script allows for easy retrieval of student data, it should be used responsibly and ethically. Respect the privacy of students and adhere to all relevant laws and regulations.
+- **Rate Limiting**: The BSEB website may have rate limiting or other restrictions on data access. Excessive scraping may result in temporary or permanent bans from the website.
+- **Data Accuracy**: While efforts are made to ensure the accuracy of the fetched data, there may be inaccuracies or inconsistencies in the results. Users should verify the data independently before making any decisions based on it.
+
 ## Features
 
 - **Roll Code and Roll Number Iteration**: The script iterates through a range of roll codes and a list of roll numbers to fetch student details.
@@ -44,5 +55,6 @@ This Python script allows you to scrape student details and subject-wise marks f
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 
